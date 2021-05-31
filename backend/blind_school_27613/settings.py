@@ -52,6 +52,10 @@ INSTALLED_APPS = [
     "task_profile",
     "location",
     "tasker_business",
+    "delivery_user_profile",
+    "menu",
+    "delivery_order",
+    "driver",
 ]
 LOCAL_APPS = [
     "home",
